@@ -1,2 +1,2 @@
 # ppagallery
-Test Onlu
+Test Only
